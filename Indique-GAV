@@ -1,0 +1,18 @@
+/____Indique-GAV/
+
+    ___/README.md ->  Explicação geral do projeto, objetivos e metodologia 
+
+/____DATA/ -> Base de dados fictícia usada para simulação
+
+  _____/DATASET_EXEMPLO.csv
+
+/_____EXPLORATORY_ANALYSIS/ ->Insigths iniciais obtitos através da exploração dos dados 
+
+   _____/ANALISE.md
+
+/_____DASHBOARDS/  ->Visualização com Power BI/Excel
+    ______/DASHBOARDS.png
+
+/_____DOCS/
+
+    ______/STORYTELLING.pdf -> Conclusão e recomendações
