@@ -1,6 +1,11 @@
 Estudo/
  /____Excel
    _____/README.md
+         Estou fazendo estudos estratégicos em excel, focando principalmente no que preciso saber para analisar dados, comecei os estudos com a criação de uma projeção das cervejarias guiadas pela IA, com este exercício
+         prático eu entendi muito bem a base da análise no excel, construí minha projeção, limpei os dados com a Power Query, montei algumas Pivot Tables e por fim fiz Dashboards representando méricas chaves.
+         Imagem Dashboard Inicial:
+         
+
    _____/Exercícios.md
    ______/Projetos.mg
 
